@@ -16,6 +16,7 @@
     "mocha": "^5.2.0",
     "node-sass": "^4.11.0",
     "prettier": "^1.15.3",
-    "sass-true": "^4.0.0"
+    "sass-true": "^4.0.0",
+    "scriptutils": "^2.0.0"
   }
 }

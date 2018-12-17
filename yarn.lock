@@ -2464,6 +2464,11 @@ sax@^1.2.4:
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
   integrity sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==
 
+scriptutils@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/scriptutils/-/scriptutils-2.0.0.tgz#ce196a73597a4cbb99bf1703eb7bd345e5d414a2"
+  integrity sha512-8Zzkr/IUBJkHI6A6GSC86WkKeu16GwqQmD4Cq7B83kZFzwCEuCSoXQwXvPniV2+0DMxqob6RQPAQAQRIvVBp+w==
+
 scss-tokenizer@^0.2.3:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/scss-tokenizer/-/scss-tokenizer-0.2.3.tgz#8eb06db9a9723333824d3f5530641149847ce5d1"
